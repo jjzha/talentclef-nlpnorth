@@ -10,13 +10,6 @@
 #SBATCH --time=2-00:00:00 
 #SBATCH --mem=128G
 
-<<<<<<< HEAD
-# TechWolf/JobBERT-v2
-# jjzha/jobbert-base-cased
-# intfloat/e5-large-v2
-
-=======
->>>>>>> 034d620 (remove api key)
 export HF_TOKEN=""
 
 source $HOME/.bashrc 
